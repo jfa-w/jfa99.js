@@ -6,3 +6,6 @@ div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.bt
 div#l2 button.btn.btn-primary,div#l1 button.btn.btn-primary,div#l3 button.btn.btn-primary{background:linear-gradient(163deg,#eea53d 0%,#eea741 100%)}
 div#l2 button.btn.btn-primary,div#l3 button.btn.btn-primary{margin-left:0!important;margin-top:10px!important}
 input#u1,input#u2,input#pass1,input#u3,input#pass2{border:1px solid #eea740;border-radius:0;text-align:center;border-style:solid;border-right:20px solid;border-left:20px solid;border-color:#c5c5c5;border-left-style:double;border-right-style:double;border-top:1px dotted #000!important;border-bottom-style:dashed}
+label.fl.label.loginstat{float:left!important;border-radius:0 7px 7px 0!important;position:absolute;top:189px;left:0;padding:3px 6px 2px 8px!important;margin-top:45px!important;font-family:'fanni';font-size:14px!important;margin-left:-4px!important}
+.ukick{margin:0!important;width:60px!important;background-color:#fff!important;margin-top:14px!important;margin-left:-60px!important;position:absolute;top:1px}
+.uban{margin:0!important;width:60px!important;background-color:#fff;margin-top:73px!important;margin-left:-61px!important;position:absolute;top:1px}

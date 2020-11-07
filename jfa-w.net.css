@@ -31,8 +31,22 @@ margin-left:-4px!important}
     border-radius:5px 15px 5px 16px!important;border:#8e210b00;border-right:5px #c7daee solid;border-right-style:double;border-left:9px #d0c695 solid;border-left-style:double;/* margin-right:33px!important;*/
     background:radial-gradient(#00000057,transparent);border:medium}
 ul.nav.nav-tabs a{color:#636363}
-#jfa-w{/* transform:matrix(1,0,0,1,54,-143);*/
-    
-/* border-radius:5px 16px 5px 16px!important;*/
-    width:74%!important;height:19px!important;left:-212px;font-size:14px!important;color:#241117;padding:0 0!important;background:linear-gradient(163deg,#ffffff 0%,#d1cdc6 100%)!important;/* background-image:url(https://upload.3dlat.net/uploads/3dlat.net_02_17_2f61_7f486eb1632111.png);*/
-    margin-top:-2px;border-right:0 #ffffff solid;margin-left:-9px;border-left:6px #b0b0b0 solid;box-sizing:content-box;border-right:2px #5cb85c solid;border-bottom-style:outset}
+#jfa-w{
+    /* transform:matrix(1,0,0,1,54,-143);*/
+    /* border-radius:5px 16px 5px 16px!important;*/
+    width: 66%!important;
+    height:19px!important;
+    left:-212px;
+    font-size:14px!important;
+    color:#241117;
+    padding:0 0!important;
+    background:linear-gradient(163deg,#ffffff 0%,#d1cdc6 100%)!important;
+    /* background-image:url(https://upload.3dlat.net/uploads/3dlat.net_02_17_2f61_7f486eb1632111.png);*/
+    margin-top:-2px;
+    border-right:0 #ffffff solid;
+    margin-left: -34px;
+    border-left:6px #b0b0b0 solid;
+    box-sizing:content-box;
+    border-right:2px #5cb85c solid;
+    border-bottom-style:outset;
+    }

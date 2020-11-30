@@ -1,4 +1,4 @@
-$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/jfa99.js/6764bd83049eb6c16e8d2125010f45732d6a22e7/awtar-iq-jfa.css">
+$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/jfa99.js/0bc17e6481a0fad0da9559d697e6d28e86c042a5/awtar-iq-jfa2.css">
 
 <style>
 
@@ -108,7 +108,4 @@ label.ae.fa.label.fa-commenting-o.label-primary {
 
 </style>`).insertBefore("body")
 
-													}
-														catch (e){
-															console.log(e)
-														}
+													

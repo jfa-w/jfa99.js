@@ -1,4 +1,4 @@
-$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/jfa99.js/0bc17e6481a0fad0da9559d697e6d28e86c042a5/awtar-iq-jfa2.css">
+$(`<link rel="stylesheet" href="https://rawcdn.githack.com/jfa-w/jfa99.js/f62442110220160cd87d947086ff518ed48353c0/awtar-iq-jfa0.css">
 
 <style>
 
@@ -56,11 +56,9 @@ label.label.label-primary.mini.fl {
 #des1 {margin-bottom: 2px;font-family: 'El Messiri',FontAwesome!important;    background-image: linear-gradient(90deg,#d0d0d0 0,#bababa 10%,#908f8f 51%,#bababa 89%,#d0d0d0 100%);color: #f9f9f9;border-radius: 3px;padding: 4px 0!important;padding-bottom: 3px;}
 
 .ae.fa.label.label-primary.fa-user {
-    border-radius: 0 0 15px 0;
 }
 
 .ae.fa.chats.label.fa-comment.label-primary {
-    border-radius: 0 0 0 15px;
 }
 
 label.ae.fa.chats.label.fa-comment.label-warning {
@@ -68,22 +66,17 @@ label.ae.fa.chats.label.fa-comment.label-warning {
 }
 
 .ae.fa.label.label-primary.fa-users {
-    border-radius: 0 0 15px 0;
-    margin-left: 10px!important;
+    
+    
 }
 
 .ae.fa.label.fa-commenting-o.label-warning {
-    border-radius: 0 0 0 15px;
+    
 }
 
 .ae.label.label-primary.fa.fa-gear {
     color: #ffd900;
-    border-radius: 0 0 15px 0;
-    margin-left: 10px!important;
-}
-
-label.ae.fa.label.fa-commenting-o.label-primary {
-    border-radius: 0px 0px 0px 15px;
+    
 }
 
 #des0 {

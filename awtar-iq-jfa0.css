@@ -1,7 +1,7 @@
-.fa-cog:before,.fa-commenting-o:before,.fa-gear:before,.fa-group:before,.fa-users:before{content:""}
+.fa-cog:before,.fa-commenting-o:before,.fa-gear:before,.fa-group:before,.fa-users:before{/* content:"" */}
 span.s1.fa.fa-user.label.badgex.label-as-badge.label-success{padding:0 3px 2px;margin-right:5px}
 a.label.label-primary.fl{border-radius:25px!important;padding:3px!important;margin-bottom:2px;text-align:center!important;position:absolute}
-.label-primary,.btn-primary{background-color:#4081b9!important;border:1px solid transparent}
+.label-primary,.btn-primary{background-color:#4081b9!important;border:1px solid transparent;}
 .ae.label.label-primary.fa.fa-gear{color:#ffd900}
 .border{border:1px solid transparent}
 .fr.borderg,.fr.borderg a{border-radius:15px!important;background-color:#1c91a7!important;background-image:linear-gradient(90deg,#1c91a7 0,#1c91a7 10%,#1c91a7 51%,#1c91a7 89%,#1c91a7 100%);border:black solid 0;color:#fff}
